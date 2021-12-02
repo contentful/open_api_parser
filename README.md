@@ -1,3 +1,9 @@
+> **CONTENTFUL FORK**
+> 
+> This gem is a development dependency of https://github.com/contentful/gatekeeper. The upstream repository is archived. The following changes have been introduced in our fork:
+>
+> * Dec 2, 2021: Changed ruby version dependency to ">= 2.0", so that Gatekeeper could be upgraded to Ruby 3.
+
 # OpenApiParser
 
 [![Build Status](https://travis-ci.org/braintree/open_api_parser.svg?branch=master)](https://travis-ci.org/braintree/open_api_parser)
