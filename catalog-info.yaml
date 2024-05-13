@@ -8,7 +8,6 @@ metadata:
     contentful.com/service-tier: "4"
 tags:
     - sast-disabled
-    - tier-4
 spec:
   type: library 
   lifecycle: Production  
