@@ -6,8 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: contentful/open_api_parser 
     contentful.com/service-tier: "4"
-tags:
-    - sast-disabled
 spec:
   type: library 
   lifecycle: Production  
