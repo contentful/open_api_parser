@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: library
+metadata:
+  name: open_api_parser 
+  description: A gem for parsing Open API specifications
+  annotations:
+    github.com/project-slug: contentful/open_api_parser 
+    contentful.com/service-tier: "4"
+spec:
+  type: library 
+  lifecycle: production  
+  owner: group:chapter-backend-ruby 
