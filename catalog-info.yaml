@@ -8,5 +8,5 @@ metadata:
     contentful.com/service-tier: "4"
 spec:
   type: library 
-  lifecycle: Production  
+  lifecycle: production  
   owner: group:chapter-backend-ruby 
